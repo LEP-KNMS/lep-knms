@@ -1,4 +1,4 @@
-### It seems nothing is here.
+### It seems nothing is [here](https://github.com/LEP-KNMS/lep-knms/wiki).
 
 <!--
 **LEP-KNMS/lep-knms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
